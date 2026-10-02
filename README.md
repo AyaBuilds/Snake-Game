@@ -1,9 +1,5 @@
- Snake Game by AyaBuilds
+Snake Game by AyaBuilds
+ 
+Jeu du serpent pour m'entrainer a Python (because I have skills issues ;') )
 
- Bienvenue dans le jeu Snake ! 🐍
-
- Description
-
- Un jeu classique de Snake où vous devez manger des pommes 🍏 pour faire grandir le serpent et éviter les murs ou vous-même. Le but est de manger autant de pommes que possible sans perdre !
-
-(Nécessite Pygame)
+(Nécessite Pygame pour tester)
